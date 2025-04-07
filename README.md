@@ -113,8 +113,8 @@ Commands are prefixed with `.`, examples:
 
 1. `npm install`  
 2. Edit `settings.json`  
-3. Place schematic files into `/schematics` folder  
-4. `node index.js`
+3. `node index.js`
+
 
 ---
 
