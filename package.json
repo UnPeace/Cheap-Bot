@@ -1,14 +1,14 @@
 {
-  "name": "workspace",
-  "version": "1.0.0",
-  "description": "",
+  "name": "cheap-bot",
+  "version": "0.0.5",
+  "description": "A open-source cheap bot that will do anything at your command. Read readme.md for full config. ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Unknown Peace",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "express": "^5.1.0",
@@ -16,5 +16,14 @@
     "mineflayer": "^4.27.0",
     "mineflayer-pathfinder": "^2.4.5",
     "prismarine-schematic": "^1.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnPeace/Cheap-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UnPeace/Cheap-Bot/issues"
+  },
+  "homepage": "https://github.com/UnPeace/Cheap-Bot#readme"
 }
