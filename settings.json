@@ -1,0 +1,106 @@
+{
+  "bot_account": {
+    "username": "KFC",
+    "password": "",
+    "type": "offline"
+  },
+
+  "server": {
+    "ip": "emerald.magmanode.com",
+    "port": 30285,
+    "version": "1.12.1"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "random_afk": {
+       "enabled": true
+    },
+    "auto_auth": {
+      "enabled": false,
+      "password": ""
+    },
+    "anti_afk": {
+      "enabled": true,
+      "sneak": true,
+      "rotate": true,
+      "jump": true,
+      "swing_arm": true,
+      "interval": 10
+    },
+    "chat_messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat_delay": 25,
+      "messages": [
+        "I have 6 pack with a layer of fat",
+        "I'm basically Herobrine's cousin"
+      ]
+    },
+    "combatLogger": {
+      "enabled": true
+    },
+
+    "chatGuard": {
+      "enabled": true,
+      "autoReply": true,
+      "whitelist": [
+        "KFC"
+        
+      ]
+    },
+    "inventory_manager": {
+      "enabled": true,
+      "auto_equip": true,
+      "auto_unequip": true,
+      "auto_equip_delay": 1000,
+      "auto_unequip_delay": 1000,
+      "auto_equip_items": [
+        "diamond_sword",
+        "diamond_pickaxe",
+        "diamond_axe",
+        "diamond_shovel",
+        "diamond_helmet",
+        "diamond_chestplate",
+        "diamond_leggings",
+        "diamond_boots"
+      ]
+    },
+    "chat_log": true,
+    "auto_reconnect": true,
+    "auto_recconect_delay": 5000
+  },
+  
+
+  "modules": {
+    "autoRoast": true,
+    "randomAfk": true,
+    "antiStuck": true,
+    "combatLogger": true,
+    "inventoryManager": true,
+    "autoEat": true,
+    "autoFish": true,
+    "autoFarm": true,
+    "autoMine": true,
+    "autoCook": true,
+    "autoEquip": true,
+    "autoBuild": true,
+    "autoDefend": true,
+    "autoTrade": true,
+    "autoExplore": true,
+    "autoSleep": true,
+    "autoHunt": true,
+    "autoRepair": true,
+    "autoEnchant": true,
+    "missionRunner": true,
+    "chatGuard": true,
+    "playerTracker": true,
+    "pvpPractice": true
+  }
+}
