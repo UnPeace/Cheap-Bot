@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "emerald.magmanode.com",
-    "port": 30285,
+    "ip": "germ1.sodiumnodes.org",
+    "port": 8056,
     "version": "1.12.1"
   },
 
